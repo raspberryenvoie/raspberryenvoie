@@ -11,7 +11,7 @@
 <!--GITHUB_REPOS:{"rows": 2}-->
 
 ### 📈 Stats:
-![raspberryenvoie's github stats](https://github-readme-stats.vercel.app/api?username=raspberryenvoie&hide=prs&show_icons=true)
+![raspberryenvoie's github stats](https://github-readme-stats.vercel.app/api?username=raspberryenvoie&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raspberryenvoie&layout=compact)
 
 ### 🗣 My activity:
