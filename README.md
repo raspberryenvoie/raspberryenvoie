@@ -14,15 +14,15 @@
 | 📦 | 16 | [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) | Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle. |
 
 ### 📈 Stats:
-![raspberryenvoie's github stats](https://github-readme-stats.vercel.app/api?username=raspberryenvoie&hide=prs&show_icons=true)
+![raspberryenvoie's github stats](https://github-readme-stats.vercel.app/api?username=raspberryenvoie&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raspberryenvoie&layout=compact)
 
 ### 🗣 My activity:
 ```
+⬆️ Pushed 1 commit to raspberryenvoie/raspberryenvoie
 🗣 Commented on #6 in raspberryenvoie/odysseyn1x
 🗣 Commented on #6 in raspberryenvoie/odysseyn1x
-💪 Opened PR #3 in demhademha/tweak-development-guide
 ```
 
 ------------
-<p align="center">Last refresh: Saturday, August 15th 2020, 7:14:55 pm UTC</p>
+<p align="center">Last refresh: Saturday, August 15th 2020, 7:42:53 pm UTC</p>
