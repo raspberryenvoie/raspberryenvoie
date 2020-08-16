@@ -19,10 +19,10 @@
 
 ### 🗣 My activity:
 ```
+🗣 Commented on #4 in demhademha/tweak-development-guide
+❗️ Opened issue #4 in demhademha/tweak-development-guide
 🗣 Commented on #3 in demhademha/tweak-development-guide
-🗣 Commented on #3 in demhademha/tweak-development-guide
-⬆️ Pushed 1 commit to raspberryenvoie/tweak-development-guide
 ```
 
 ------------
-<p align="center">Last refresh: Sunday, August 16th 2020, 10:15:35 am UTC</p>
+<p align="center">Last refresh: Sunday, August 16th 2020, 11:14:36 am UTC</p>
