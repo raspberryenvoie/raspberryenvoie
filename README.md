@@ -11,7 +11,7 @@
 |*|Stars|Repo|Description|
 |---|---|---|---|
 | 📦 | 21 | [raspberryenvoie/piRa1n](https://github.com/raspberryenvoie/piRa1n) | Easily turn a Raspberry Pi 4 or a Banana pi M2 Zero into a portable Checkra1n dongle. |
-| 📦 | 16 | [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) | Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle. |
+| 📦 | 17 | [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) | Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle. |
 
 ### 📈 Stats:
 ![raspberryenvoie's github stats](https://github-readme-stats.vercel.app/api?username=raspberryenvoie&show_icons=true)
@@ -25,4 +25,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: Monday, August 17th 2020, 10:16:32 am UTC</p>
+<p align="center">Last refresh: Monday, August 17th 2020, 11:14:39 am UTC</p>
