@@ -10,11 +10,9 @@
 ### 🗄 My projects:
 |*|Stars|Repo|Description|
 |---|---|---|---|
-| 📦 | 37 | [demhademha/tweak-development-guide](https://github.com/demhademha/tweak-development-guide) | From complete beginner to tweak dev! |
 | 📦 | 21 | [raspberryenvoie/piRa1n](https://github.com/raspberryenvoie/piRa1n) | Easily turn a Raspberry Pi 4 or a Banana pi M2 Zero into a portable Checkra1n dongle. |
 | 📦 | 17 | [raspberryenvoie/odysseyn1x](https://github.com/raspberryenvoie/odysseyn1x) | Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle. |
 | 📦 | 2 | [raspberryenvoie/piRa1n-OS](https://github.com/raspberryenvoie/piRa1n-OS) | An OS to jailbreak using Checkra1n on a Raspberry Pi 4 (based on Raspberry Pi OS) |
-| 📦 | 1 | [raspberryenvoie/tweak-development-guide](https://github.com/raspberryenvoie/tweak-development-guide) | From complete beginner to tweak dev! |
 
 ### 📈 Stats:
 ![raspberryenvoie's github stats](https://github-readme-stats.vercel.app/api?username=raspberryenvoie&show_icons=true)
@@ -28,4 +26,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: Monday, August 17th 2020, 9:37:44 pm UTC</p>
+<p align="center">Last refresh: Monday, August 17th 2020, 9:38:45 pm UTC</p>
