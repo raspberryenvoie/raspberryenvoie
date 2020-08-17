@@ -8,7 +8,7 @@
 ---
 
 ### 🗄 My projects:
-<!--GITHUB_REPOS:{"rows": 3}-->
+<!--GITHUB_REPOS:{"rows": 2}-->
 
 ### 📈 Stats:
 ![raspberryenvoie's github stats](https://github-readme-stats.vercel.app/api?username=raspberryenvoie&show_icons=true)
