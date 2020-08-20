@@ -17,9 +17,9 @@ Have a look at them below ;)
 ### 🗣 My activity:
 ```
 ⬆️ Pushed 1 commit to raspberryenvoie/LS-no-Blur
-⬆️ Pushed 1 commit to raspberryenvoie/raspberryenvoie
-⬆️ Pushed 1 commit to demhademha/tweak-development-guide
+⬆️ Pushed 1 commit to raspberryenvoie/LS-no-Blur
+📦 Released "LS no Blur v1.1.0" in raspberryenvoie/LS-no-Blur
 ```
 
 ------------
-<p align="center">Last refresh: Thursday, August 20th 2020, 7:14:48 pm UTC</p>
+<p align="center">Last refresh: Thursday, August 20th 2020, 8:18:11 pm UTC</p>
