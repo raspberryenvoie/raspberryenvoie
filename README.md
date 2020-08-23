@@ -16,10 +16,10 @@ Have a look at them below ;)
 
 ### 🗣 My activity:
 ```
+⬆️ Pushed 1 commit to raspberryenvoie/raspberryenvoie.github.io
+⬆️ Pushed 2 commits to raspberryenvoie/raspberryenvoie.github.io
 ⬆️ Pushed 1 commit to raspberryenvoie/piRa1n
-📦 Released "LS no Blur v1.1.1" in raspberryenvoie/LS-no-Blur
-⬆️ Pushed 1 commit to raspberryenvoie/LS-no-Blur
 ```
 
 ------------
-<p align="center">Last refresh: Sunday, August 23rd 2020, 6:17:49 pm UTC</p>
+<p align="center">Last refresh: Sunday, August 23rd 2020, 7:15:57 pm UTC</p>
