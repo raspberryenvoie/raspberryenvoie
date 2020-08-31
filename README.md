@@ -22,4 +22,4 @@ Have a look at them below ;)
 ```
 
 ------------
-<p align="center">Last refresh: Monday, August 31st 2020, 8:13:08 am UTC</p>
+<p align="center">Last refresh: Monday, August 31st 2020, 9:11:55 am UTC</p>
