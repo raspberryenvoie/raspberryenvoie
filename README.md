@@ -16,10 +16,10 @@ Have a look at them below ;)
 
 ### 🗣 My activity:
 ```
-⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
+📦 Released "v2.3" in raspberryenvoie/odysseyn1x
 ⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
 ⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
 ```
 
 ------------
-<p align="center">Last refresh: Tuesday, September 1st 2020, 8:20:09 pm UTC</p>
+<p align="center">Last refresh: Tuesday, September 1st 2020, 9:17:44 pm UTC</p>
