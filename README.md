@@ -5,10 +5,14 @@
   <a href="https://www.reddit.com/user/raspberryenvoie"><img src="https://img.shields.io/badge/-u/raspberryenvoie-ff3312?logo=Reddit&logoColor=white&link=https://www.reddit.com/user/raspberryenvoie"></a>
 </p>
 
+<p align=center>I'm a 14 years old guy from France who enjoys programming. Check out my projects!</p>
+
 ---
 
 ### 🗄 My projects:
-Have a look at them below ;)
+- LS no Blur: A simple tweak that allows you to disable the blur effect when switching from the LS to the HS!
+- odysseyn1x: Linux-based distro that lets you install checkra1n, odysseyra1n and Project Sandcastle.
+- piRa1n: Easily turn a Raspberry Pi 4 or a Banana pi M2 Zero into a portable Checkra1n dongle.
 
 ### 📈 Stats:
 ![raspberryenvoie's github stats](https://github-readme-stats.vercel.app/api?username=raspberryenvoie&show_icons=true)
@@ -16,10 +20,10 @@ Have a look at them below ;)
 
 ### 🗣 My activity:
 ```
+⬆️ Pushed 1 commit to raspberryenvoie/raspberryenvoie
 ⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
 📦 Released "v2.3" in raspberryenvoie/odysseyn1x
-⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
 ```
 
 ------------
-<p align="center">Last refresh: Wednesday, September 2nd 2020, 11:17:38 am UTC</p>
+<p align="center">Last refresh: Wednesday, September 2nd 2020, 11:48:48 am UTC</p>
