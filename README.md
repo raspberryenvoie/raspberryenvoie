@@ -20,10 +20,10 @@
 
 ### 🗣 My activity:
 ```
-⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
-⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
-⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
+📦 Released "v2.4" in raspberryenvoie/odysseyn1x
+🗣 Commented on #7 in raspberryenvoie/odysseyn1x
+📦 Released "v2.4-checkra1n-0.10.1" in raspberryenvoie/odysseyn1x
 ```
 
 ------------
-<p align="center">Last refresh: Monday, September 14th 2020, 9:18:49 am UTC</p>
+<p align="center">Last refresh: Monday, September 14th 2020, 10:19:06 am UTC</p>
