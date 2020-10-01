@@ -26,4 +26,4 @@
 ```
 
 ------------
-<p align="center">Last refresh: Wednesday, September 30th 2020, 11:19:19 pm UTC</p>
+<p align="center">Last refresh: Thursday, October 1st 2020, 1:00:00 am UTC</p>
