@@ -20,10 +20,10 @@
 
 ### 🗣 My activity:
 ```
+🗣 Commented on #1 in Pro-Grammeur/Casino-roulette-game
+🗣 Commented on #1 in Pro-Grammeur/Casino-roulette-game
 📦 Released "2020-11-09 piRa1n-OS" in raspberryenvoie/piRa1n-OS
-⬆️ Pushed 1 commit to raspberryenvoie/piRa1n-OS
-📦 Released "v5.3" in raspberryenvoie/piRa1n
 ```
 
 ------------
-<p align="center">Last refresh: Monday, November 9th 2020, 3:21:53 pm UTC</p>
+<p align="center">Last refresh: Monday, November 9th 2020, 4:39:22 pm UTC</p>
