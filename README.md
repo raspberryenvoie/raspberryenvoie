@@ -20,10 +20,10 @@
 
 ### 🗣 My activity:
 ```
+❗️ Reopened issue #2 in raspberryenvoie/piRa1n
+🗣 Commented on #2 in raspberryenvoie/piRa1n
 🗣 Commented on #4 in raspberryenvoie/piRa1n
-🗣 Commented on #15 in coolstar/Odyssey-bootstrap
-🗣 Commented on #1819 in checkra1n/BugTracker
 ```
 
 ------------
-<p align="center">Last refresh: Thursday, November 12th 2020, 11:14:51 am UTC</p>
+<p align="center">Last refresh: Thursday, November 12th 2020, 12:20:57 pm UTC</p>
