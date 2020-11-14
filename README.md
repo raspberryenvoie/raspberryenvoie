@@ -21,9 +21,9 @@
 ### 🗣 My activity:
 ```
 🗣 Commented on #15 in coolstar/Odyssey-bootstrap
+🗣 Commented on #15 in coolstar/Odyssey-bootstrap
 🗣 Commented on #4 in raspberryenvoie/piRa1n
-❗️ Reopened issue #2 in raspberryenvoie/piRa1n
 ```
 
 ------------
-<p align="center">Last refresh: Saturday, November 14th 2020, 1:14:02 pm UTC</p>
+<p align="center">Last refresh: Saturday, November 14th 2020, 2:16:21 pm UTC</p>
