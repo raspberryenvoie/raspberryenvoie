@@ -20,10 +20,10 @@
 
 ### 🗣 My activity:
 ```
-⬆️ Pushed 1 commit to raspberryenvoie/piRa1n
-🗣 Commented on #5 in raspberryenvoie/piRa1n
-⬆️ Pushed 2 commits to raspberryenvoie/piRa1n
+📦 Released "v5.4" in raspberryenvoie/piRa1n
+📦 Released "" in raspberryenvoie/piRa1n-web
+⬆️ Pushed 1 commit to raspberryenvoie/piRa1n-web
 ```
 
 ------------
-<p align="center">Last refresh: Thursday, November 19th 2020, 9:15:46 pm UTC</p>
+<p align="center">Last refresh: Thursday, November 19th 2020, 10:20:30 pm UTC</p>
