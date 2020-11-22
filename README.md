@@ -21,9 +21,9 @@
 ### 🗣 My activity:
 ```
 🗣 Commented on #10 in raspberryenvoie/odysseyn1x
+🗣 Commented on #10 in raspberryenvoie/odysseyn1x
 📦 Released "2020-11-21 piRa1n-OS" in raspberryenvoie/piRa1n-OS
-❗️ Closed issue #15 in raspberryenvoie/odysseyn1x
 ```
 
 ------------
-<p align="center">Last refresh: Sunday, November 22nd 2020, 8:19:47 am UTC</p>
+<p align="center">Last refresh: Sunday, November 22nd 2020, 9:17:10 am UTC</p>
