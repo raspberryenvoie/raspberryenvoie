@@ -20,10 +20,10 @@
 
 ### 🗣 My activity:
 ```
+🗣 Commented on #18 in raspberryenvoie/odysseyn1x
+❗️ Closed issue #16 in raspberryenvoie/odysseyn1x
 ⬆️ Pushed 1 commit to raspberryenvoie/odysseyn1x
-🗣 Commented on #18 in raspberryenvoie/odysseyn1x
-🗣 Commented on #18 in raspberryenvoie/odysseyn1x
 ```
 
 ------------
-<p align="center">Last refresh: Saturday, December 12th 2020, 6:32:15 pm UTC</p>
+<p align="center">Last refresh: Saturday, December 12th 2020, 7:28:18 pm UTC</p>
