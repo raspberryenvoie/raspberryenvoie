@@ -15,10 +15,10 @@
 
 ### 🗣 My activity:
 ```
-⬆️ Pushed 1 commit to raspberryenvoie/raspberryenvoie
-🗣 Commented on #20 in raspberryenvoie/odysseyn1x
-🗣 Commented on #2 in raspberryenvoie/piRa1n
+❌ Closed PR #19 in QuixThe2nd/NoClutter
+🗣 Commented on #19 in QuixThe2nd/NoClutter
+❌ Closed PR #1 in Pro-Grammeur/Casino-roulette-game
 ```
 
 ------------
-<p align="center">Last refresh: Friday, January 8th 2021, 10:43:09 am UTC</p>
+<p align="center">Last refresh: Friday, January 8th 2021, 11:37:37 am UTC</p>
