@@ -15,10 +15,10 @@
 
 ### 🗣 My activity:
 ```
-❗️ Closed issue #28 in raspberryenvoie/odysseyn1x
-❗️ Closed issue #27 in raspberryenvoie/odysseyn1x
-🗣 Commented on #27 in raspberryenvoie/odysseyn1x
+⬆️ Pushed 2 commits to raspberryenvoie/piRa1n-OS
+📦 Released "2021-05-15" in raspberryenvoie/piRa1n-OS
+📦 Released "v2.2" in raspberryenvoie/piRa1n-web
 ```
 
 ------------
-<p align="center">Last refresh: Saturday, May 15th 2021, 3:28:05 pm UTC</p>
+<p align="center">Last refresh: Saturday, May 15th 2021, 4:45:37 pm UTC</p>
