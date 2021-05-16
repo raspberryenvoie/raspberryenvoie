@@ -15,10 +15,10 @@
 
 ### 🗣 My activity:
 ```
+⬆️ Pushed 1 commit to raspberryenvoie/piRa1n
 ⬆️ Pushed 2 commits to raspberryenvoie/piRa1n-OS
 📦 Released "2021-05-15" in raspberryenvoie/piRa1n-OS
-📦 Released "v2.2" in raspberryenvoie/piRa1n-web
 ```
 
 ------------
-<p align="center">Last refresh: Sunday, May 16th 2021, 11:23:44 am UTC</p>
+<p align="center">Last refresh: Sunday, May 16th 2021, 12:39:52 pm UTC</p>
